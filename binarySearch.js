@@ -1,4 +1,4 @@
-// Binary Seach Algorithm
+// Binary Search Algorithm
 // The array must be sorted to the Algorithm succeed
 // keep dividing and searching the index
 function binarySearch(arr, val) {
